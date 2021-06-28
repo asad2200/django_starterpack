@@ -15,3 +15,5 @@
 2. `py manage.py makemigrations`
 
 3. `py manage.py migrate`
+
+4. Edit `simpleAuth.py` file
